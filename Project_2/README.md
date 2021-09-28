@@ -17,6 +17,7 @@ For Phase 1a I tested 3 programs related to the twitter API:
 (3) count the number of recent tweets from a user. timeframe can be selected
 
 Next Steps: 
+
 ---> Learn how to gather tweets from a specific hashtags
 
 ---> Find most popular users related to stock trading and investing
