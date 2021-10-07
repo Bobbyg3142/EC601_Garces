@@ -12,26 +12,26 @@ Running the Project2_final.py file results in a histogram that plots the sentime
 Below are some resulting histogram charts produced by the python program using both the Twitter API and Google NLP.
 
 
-Bitcoin (Symbol: BTC)
+##Bitcoin (Symbol: BTC)
 ![](Results/bitcoin_sentiment_score.png)
 
 
 
 
-Tesla (Symbol: TSLA)
+##Tesla (Symbol: TSLA)
+![](Results/tesla_sentiment_score.png)
 
 
 
 
-
-General Electric (Symbol: GE)
-
-
+##General Electric (Symbol: GE)
+![](Results/GE_sentiment_score.png)
 
 
 
-S&P500 Index (Symbol: SPY)
 
+##S&P500 Index (Symbol: SPY)
+![](Results/SPY_sentiment_score.png)
 
 
 # Future Improvements
