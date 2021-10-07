@@ -38,6 +38,16 @@ S&P500 Index (Symbol: SPY)
 ![](Results/SPY_sentiment_score.png)
 
 
+
+# Observations
+-People seem pretty happy with Bitcoin, it might be a viable investment! More research is needed.
+
+-General Electric has a pretty negative sentiment towards it. Likely due to the reverse split that happened a few weeks ago.
+
+
+-While certain stocks have a clear positive or negative sentiment, many stocks tend to have an average near zero, which does not provide much insight for a potential investor.
+
+
 # Future Improvements
 If there is extra time, compare the sentiments on a given stock to the price change following the sentiment calculation.
 How accurate was the sentiment? Is there a connection to the price of the stock?
