@@ -13,7 +13,7 @@ Below are some resulting histogram charts produced by the python program using b
 
 
 Bitcoin (Symbol: BTC)
-
+![](Results/bitcoin_sentiment_score.png)
 
 
 
